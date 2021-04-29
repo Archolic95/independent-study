@@ -4,5 +4,5 @@ _ReSharper.*
 bin
 obj
 packages
-data\*
+data.*
 *.cache
